@@ -1,4 +1,4 @@
 Flask
 python-dotenv
 requests
-wikipediaapi
+git+git://github.com/martin-majlis/Wikipedia-API.git
